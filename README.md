@@ -5,9 +5,9 @@ para lograr una herramienta más completa. Se busca siempre seguir una arquitect
 ## Instalación y configuración
 * NodeJs 14.18.0
 * npm 6.14.15
-
+Preparar el ambiente:
 ```
-npm run build
+npm i
 
 ```
 Para entrar al modo de desarrollo:
