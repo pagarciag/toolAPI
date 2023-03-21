@@ -6,13 +6,14 @@ para lograr una herramienta más completa. Se busca siempre seguir una arquitect
 * NodeJs 14.18.0
 * npm 6.14.15
 
-´´´
-npm i
-´´´
+```
+npm run build
+
+```
 Para entrar al modo de desarrollo:
-´´´
+```
 npm run dev
-´´´
+```
 ## Directorio de src
 - [controllers](#id1)
 - [middleware](#id2)
